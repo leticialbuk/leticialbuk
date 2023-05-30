@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo ao meu perfil, obrigada por visitar ☺
 
-- 🆔Meu nome é Leticia e sou desenvolvedora Backend.
+- 🆔 Meu nome é Leticia e sou desenvolvedora Backend.
 - 👩‍💻 Atualemente curso Analise e Desenvolvimento de Sistemas pela FIAP.
 - 💜 Gosto de aprender coisas novas e aprimorar meus conhecimentos.
 - 📚 Possuo conhecimento nos fundamentos C#, .NET e SQL Server.
