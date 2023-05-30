@@ -1,4 +1,4 @@
-### Olá, obrigada por visitar meu perfil! ☺
+### Olá, seja bem-vindo ao meu perfil! Obrigada por visitar ☺
 
 Meu nome é Leticia e sou desenvolvedora Backend 
 - 👩‍💻 Atualemente curso Analise e Desenvolvimento de Sistemas pela FIAP.
